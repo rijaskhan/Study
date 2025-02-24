@@ -1,0 +1,10 @@
+print("hello")
+print("hiii")
+dic={1:"Hello",2:"Welcome"}
+print(dic[1])
+list=[1,5,3,2]
+list.sort()
+print(list)
+a1=['a','w','q','e','s','d']
+a1.sort()
+print(a1)
